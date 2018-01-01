@@ -1,6 +1,6 @@
 # main text of home
 name: Aashish Kumar Jain
-bio: Machine Learning, IoT and Computer Archietecture Enthusiast
+bio: Machine Learning, IoT, and Computer Architecture Enthusiast
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -55,7 +55,7 @@ email: aashish_jain@live.com
 authors:
     aashish_jain:
         name: Aashish Kumar Jain
-        bio: Research Assistant at Solarillion Foundation
+        bio: Machine Learning, IoT, and Computer Architecture Enthusiast
         external-image: false
         picture: assets/images/profile.jpg
         # twitter: _aashishjain
