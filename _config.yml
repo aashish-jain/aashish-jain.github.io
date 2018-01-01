@@ -1,6 +1,6 @@
 # main text of home
 name: Aashish Kumar Jain
-bio: Research Assistant at Solarillion Foundation
+bio: Machine Learning, IoT and Computer Archietecture Enthusiast
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/docs/Resume.pdf
 
 url: https://aashish-jain.github.io
 # your url: http://USERNAME.github.io
@@ -22,7 +22,7 @@ url: https://aashish-jain.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-MYANALYTICS'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -53,12 +53,12 @@ github: aashish-jain
 email: aashish_jain@live.com
 
 authors:
-    johndoe:
+    aashish_jain:
         name: Aashish Kumar Jain
         bio: Research Assistant at Solarillion Foundation
         external-image: false
         picture: assets/images/profile.jpg
-        # twitter: johndoe
+        # twitter: _aashishjain
     # jamesfoster:
     #     name: James Foster
     #     bio: A Man who develops software with coffee
@@ -80,22 +80,22 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+# read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+# show-tags: true
 
 # related posts inside a post?
-related: true
+# related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+# post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+# show-author: true
 
 # do you want some animations?
 animation: true
