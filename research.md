@@ -22,6 +22,11 @@ layout: page
 <center><h1>PROJECTS</h1></center>
 
 <ul>
+    <li><h3>MOVIE OCCUPANCY PREDICTION <i>[Currently working]</i></h3>
+    <p>A Machine Learning model that predicts the occupancy of a theater using its booking history. (Done in collaboration with one of the top three multiplex chains in India).
+    Presently developping an application for making real-time prediction.
+    </p>
+    </li>
     <li><h3>PERFORMANCE UPDATER</h3>
     <p>A slack-bot that displays students’ attendance and progress when summoned by commands.<br>
     Used : Slacker, Python, Pandas, Google API, Heroku</p>
