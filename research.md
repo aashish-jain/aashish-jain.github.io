@@ -7,7 +7,7 @@ layout: page
 
 <ul>
     <li>
-        <h3>PEAK BASED DEVICE CLASSIFICATION FOR NILM ON A LOW-COST EMBEDDED PLATFORM USING EXTRA-TREES</h3>
+        <h3><a href='http://ieeexplore.ieee.org/document/8284200/'>PEAK BASED DEVICE CLASSIFICATION FOR NILM ON A LOW-COST EMBEDDED PLATFORM USING EXTRA-TREES</a></h3>
         <p> A low computationally complex method for event classification in Non-Intrusive Load Monitoring systems capable of running on a single chip computer (Pi 3). Presented at  2017 IEEE Massachusetts Institute of Technology Undergraduate Research Technology Conference.</p>
     </li>
     <li>
