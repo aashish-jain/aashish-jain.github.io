@@ -7,7 +7,7 @@ layout: page
 
 <ul>
     <li>
-        <h3>DAY-AHEAD MOVIE OCCUPANCY FORECASTING</h3>
+        <h3>DAY-AHEAD MOVIE OCCUPANCY FORECASTING [To be submitted]</h3>
         <p>
         A Machine Learning model that predicts the occupancy of a movie using its booking history. (Done in collaboration with one of the top three multiplex chains in India).
         </p>
