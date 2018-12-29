@@ -1,14 +1,13 @@
 # main text of home
 name: Aashish Kumar Jain
-bio: Machine Learning, IoT, and Computer Architecture Enthusiast
-
+bio: Grad Student, University at Buffalo
 # twitter summary info
 # description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -55,16 +54,10 @@ email: aashish_jain@live.com
 authors:
     aashish_jain:
         name: Aashish Kumar Jain
-        bio: Machine Learning, IoT, and Computer Architecture Enthusiast
+        # bio: Machine Learning, IoT, and Computer Architecture Enthusiast
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/profile.png
         # twitter: _aashishjain
-    # jamesfoster:
-    #     name: James Foster
-    #     bio: A Man who develops software with coffee
-    #     external-image: false
-    #     picture: assets/images/james.jpg
-    #     twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
