@@ -7,12 +7,6 @@ layout: page
 
 <ul>
     <li>
-        <h3>DAY-AHEAD MOVIE OCCUPANCY FORECASTING [To be submitted]</h3>
-        <p>
-        A Machine Learning model that predicts the occupancy of a movie using its booking history. (Done in collaboration with one of the top three multiplex chains in India).
-        </p>
-    </li>
-    <li>
         <h3><a href='http://ieeexplore.ieee.org/document/8284200/'>PEAK BASED DEVICE CLASSIFICATION FOR NILM ON A LOW-COST EMBEDDED PLATFORM USING EXTRA-TREES</a></h3>
         <p> A low computationally complex method for event classification in Non-Intrusive Load Monitoring systems capable of running on a single chip computer (Pi 3). Presented at  2017 IEEE Massachusetts Institute of Technology Undergraduate Research Technology Conference.</p>
     </li>
@@ -28,6 +22,12 @@ layout: page
 <center><h1>PROJECTS</h1></center>
 
 <ul>
+    <li>
+        <h3>DAY-AHEAD MOVIE OCCUPANCY FORECASTING</h3>
+        <p>
+        A Machine Learning model that predicts the occupancy of a movie using its booking history. (Done in collaboration with one of the top three multiplex chains in India).
+        </p>
+    </li>
     <li><h3>PERFORMANCE UPDATER</h3>
     <p>A slack-bot that displays students’ attendance and progress when summoned by commands.<br>
     Used : Slacker, Python, Pandas, Google API, Heroku</p>
